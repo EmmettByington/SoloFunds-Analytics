@@ -3,7 +3,7 @@ Analytical tools for managing a lending business on Solo Funds, including data u
 
 ## Scripts
 
-### 1. Raw Data Processor
+### 1. Data Update Script
    - **File:** [raw_data_processor.py](raw_data_processor.py)
    - **Description:** This Python script updates raw CSV data from a lending business on Solo Funds. It cleans and formats the data, adding necessary columns for later analysis.
    - **Usage:**
