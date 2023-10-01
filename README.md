@@ -14,7 +14,7 @@ Analytical tools for managing a lending business on Solo Funds, including data u
 
 ### 2. Real-Time Lending Tracking
    - **File:** [calculate_open_totals.py](calculate_open_totals.py)
-   - **Description:** Track the real-time lending status, including the total amount lent, total returns, profit, return on investment (ROI), and more.
+   - **Description:** Track the real-time lending status, including the total amount lent.
    - **Usage:**
      ```bash
      python calculate_open_totals.py
