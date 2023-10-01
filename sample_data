@@ -1,1 +1,15 @@
+june.csv header
+Origination Date,Due Date,Payback Date,Borrower Name,Loan Status,Collections Status,Principal Amount,Donation Amount,Tip Amount,Late Fee,Recovery Fee,SLP?,Score,Credits Received,Total Returns
+6/30/2023,7/15/2023,7/14/2023,Joel,Paid back,N/A,$375.00 ,$26.25 ,$51.00 ,$0.00 ,$0.00 ,Yes,82,$0.00 ,$452.25 
+6/30/2023,7/15/2023,7/13/2023,Jessica,Paid back,N/A,$200.00 ,$14.00 ,$28.50 ,$0.00 ,$0.00 ,Yes,72,$0.00 ,$242.50 
+6/30/2023,7/14/2023,7/14/2023,Meagan,Paid back,N/A,$325.00 ,$22.75 ,$42.00 ,$0.00 ,$0.00 ,Yes,87,$0.00 ,$389.75 
+6/30/2023,7/15/2023,,Jamaal,Delinquent,Credited,$225.00 ,$15.75 ,$32.00 ,$0.00 ,$0.00 ,Yes,74,$216.68 ,$216.68 
+6/30/2023,7/15/2023,7/14/2023,Thinh,Paid back,N/A,$225.00 ,$15.75 ,$30.00 ,$0.00 ,$0.00 ,Yes,85,$0.00 ,$270.75 
 
+updated_june.csv header
+Origination Date,Due Date,Payback Date,Borrower Name,Loan Status,Collections Status,Principal Amount,Slp Amount,Donation Amount,Total Loan Amount,Tip Amount,Tip Pct,SLP?,Score,Credits Received,Total Returns,Day of Week Lent,Day of Week Due,Paid Back,Fulfilled Loan
+2023-06-30,2023-07-15,2023-07-14,Joel,Paid back,,$375.00,$18.75,$26.25,$420.00,$51.00,13.60%,Yes,82,$0.00 ,$452.25 ,6,7,1,1
+2023-06-30,2023-07-15,2023-07-13,Jessica,Paid back,,$200.00,$10.00,$14.00,$224.00,$28.50,14.25%,Yes,72,$0.00 ,$242.50 ,6,7,1,1
+2023-06-30,2023-07-14,2023-07-14,Meagan,Paid back,,$325.00,$16.25,$22.75,$364.00,$42.00,12.92%,Yes,87,$0.00 ,$389.75 ,6,6,1,1
+2023-06-30,2023-07-15,2023-07-16,Jamaal,Delinquent,Credited,$225.00,$11.25,$15.75,$252.00,$32.00,14.22%,Yes,74,$216.68 ,$216.68 ,6,7,0,1
+2023-06-30,2023-07-15,2023-07-14,Thinh,Paid back,,$225.00,$11.25,$15.75,$252.00,$30.00,13.33%,Yes,85,$0.00 ,$270.75 ,6,7,1,1
