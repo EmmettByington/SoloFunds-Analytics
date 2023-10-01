@@ -88,5 +88,3 @@ df = df[desired_column_order]
 # Write the updated DataFrame to a new CSV file
 df.to_csv('updated_june.csv', index=False)
 
-print("Complete")
-
