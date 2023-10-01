@@ -40,6 +40,10 @@ df['Tip Pct'] = df['Tip Pct'].map('{:.2f}%'.format)
 # Fill 'Payback Date' with 'Due Date' + 1 day if it's empty
 df['Payback Date'] = df['Payback Date'].fillna((pd.to_datetime(df['Due Date']) + pd.DateOffset(days=1)).dt.date)
 
+# Convert date columns to datetime format
+date_columns = ['Origination Date', 'Due Date', 'Payback Date']
+df[date_columns] = df[date_columns].apply(pd.to_datetime)
+
 # Calculate Day of Week Lent and Day of Week Due
 df['Day of Week Lent'] = pd.to_datetime(df['Origination Date']).dt.dayofweek + 2
 df['Day of Week Due'] = pd.to_datetime(df['Due Date']).dt.dayofweek + 2
