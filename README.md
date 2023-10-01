@@ -55,7 +55,7 @@ Analytical tools for managing a lending business on Solo Funds, including data u
      python calculate_payback_rates.py
      ```
    - **Output:** Payback rates for different loan parameters displayed in the console.
-     - **Example**   Principal Range:
+     - **Example**
         ```plaintext
         Principal Range:
           Range 200-299: 76.84%
