@@ -13,3 +13,11 @@ Origination Date,Due Date,Payback Date,Borrower Name,Loan Status,Collections Sta
 2023-06-30,2023-07-14,2023-07-14,Meagan,Paid back,,$325.00,$16.25,$22.75,$364.00,$42.00,12.92%,Yes,87,$0.00 ,$389.75 ,6,6,1,1
 2023-06-30,2023-07-15,2023-07-16,Jamaal,Delinquent,Credited,$225.00,$11.25,$15.75,$252.00,$32.00,14.22%,Yes,74,$216.68 ,$216.68 ,6,7,0,1
 2023-06-30,2023-07-15,2023-07-14,Thinh,Paid back,,$225.00,$11.25,$15.75,$252.00,$30.00,13.33%,Yes,85,$0.00 ,$270.75 ,6,7,1,1
+
+open_9_29.csv header
+Origination Date,Due Date,Payback Date,Borrower Name,Loan Status,Collections Status,Principal Amount,Donation Amount,Tip Amount,Late Fee,Recovery Fee,SLP?,Score,Credits Received,Total Returns
+9/29/2023,10/14/2023,,Frederick,Funded,N/A,$200.00 ,$14.00 ,$28.20 ,$0.00 ,$0.00 ,Yes,73,$0.00 ,$0.00 
+9/29/2023,10/6/2023,,Nicholas,Funded,N/A,$100.00 ,$8.00 ,$15.00 ,$0.00 ,$0.00 ,Yes,52,$0.00 ,$0.00 
+9/29/2023,10/14/2023,,Anthony,Funded,N/A,$200.00 ,$14.00 ,$28.50 ,$0.00 ,$0.00 ,Yes,71,$0.00 ,$0.00 
+9/29/2023,10/4/2023,,David,Funded,N/A,$100.00 ,$7.00 ,$15.00 ,$0.00 ,$0.00 ,Yes,58,$0.00 ,$0.00 
+9/29/2023,10/14/2023,,Ebony,Funded,N/A,$350.00 ,$0.00 ,$46.00 ,$0.00 ,$0.00 ,Yes,88,$0.00 ,$0.00 
